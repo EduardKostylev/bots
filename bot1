@@ -1,0 +1,2 @@
+$ git clone git@git:seansylee/kanban-board-bot.git
+$ npm install
